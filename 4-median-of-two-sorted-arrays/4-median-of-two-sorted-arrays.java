@@ -34,9 +34,6 @@ class Solution {
                 break;
             }
         }
-        for(int a : list){
-            System.out.print(a +" ");
-        }
         
         int size = list.size();
         if(size%2==0){//짝수
